@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{aeb9fb1f-fe54-4e19-8fb4-79cc23046f76}">
+		<property name="assetPath">
+			<value>Sonido_maquina_mal_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5573333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c15d2dde-4865-4adb-8d14-3d943e1e5c5c}</destination>
+		</relationship>
+	</object>
+</objects>

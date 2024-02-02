@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a361c68c-067a-4a19-b41b-57d8d909055f}">
+		<property name="name">
+			<value>InCombat</value>
+		</property>
+		<relationship name="folder">
+			<destination>{65cbc627-1dd3-4e9a-bb44-8ca33749997e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{30af14d7-58d8-4aad-ae58-b38af36ccbdf}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{30af14d7-58d8-4aad-ae58-b38af36ccbdf}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

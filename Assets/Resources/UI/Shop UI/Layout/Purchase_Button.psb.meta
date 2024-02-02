@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: 70ad3f0d0c4104a44a5ff97698544dd8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 18-ArrowBorderL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 1150
+      width: 166
+      height: 648
+    spriteID: a55adb71eb156ad4f948ac58bf6e7ef5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 422, y: 1150}
+    spritePosition: {x: 17, y: 576}
+  - name: 17-ArrowFillL
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 1322
+      width: 154
+      height: 606
+    spriteID: ceff025c3235c344b92fe34d7c6dc045
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 770, y: 1322}
+    spritePosition: {x: 23, y: 600}
+  - name: 16-Arrow L Glow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 942
+      width: 201
+      height: 678
+    spriteID: 18a43e1f65d0af442beb118df60b7ef4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 942}
+    spritePosition: {x: 0, y: 561}
+  - name: 15-ArrowBorder R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 1150
+      width: 166
+      height: 648
+    spriteID: 1f5d8ee85e991134f9e7c2391f48effc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 596, y: 1150}
+    spritePosition: {x: 917, y: 576}
+  - name: 14-ArrowFill R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 932
+      y: 1322
+      width: 154
+      height: 606
+    spriteID: c741294891bbc6e4a87c31714ad9c6e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 932, y: 1322}
+    spritePosition: {x: 923, y: 597}
+  - name: 13-ArrowR Glow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 942
+      width: 201
+      height: 678
+    spriteID: 309b154bfbc76a848a249e63588adb08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 213, y: 942}
+    spritePosition: {x: 899, y: 561}
+  - name: 12-Close Button Frame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1666
+      y: 942
+      width: 368
+      height: 129
+    spriteID: ddda25339a445844e9da4ecbfd10889d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1666, y: 942}
+    spritePosition: {x: 366, y: 45}
+  - name: 11-Close Button Frame Glow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1094
+      y: 1322
+      width: 404
+      height: 165
+    spriteID: b8d36b39eb9a4814088f7f342f9308aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1094, y: 1322}
+    spritePosition: {x: 348, y: 27}
+  - name: 10-PlayerPoints
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1094
+      y: 1495
+      width: 367
+      height: 88
+    spriteID: 2c8172a74e251434898ba6c6e348f9d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1094, y: 1495}
+    spritePosition: {x: 366, y: 1454}
+  - name: 9-PlayerPoints Frame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 1150
+      width: 578
+      height: 164
+    spriteID: 7d8699e2033355248a580a9e119ac1b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 770, y: 1150}
+    spritePosition: {x: 261, y: 1423}
+  - name: 8-PlayerPoints Frame Glow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 942
+      width: 614
+      height: 200
+    spriteID: f9a29be3256dcdc4191167e1a1cafd5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 422, y: 942}
+    spritePosition: {x: 243, y: 1405}
+  - name: 7-Purchase Frame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1356
+      y: 1150
+      width: 578
+      height: 164
+    spriteID: ae923ad005efcf347baf617008ceebbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1356, y: 1150}
+    spritePosition: {x: 261, y: 218}
+  - name: 6-Purchase Frame Glow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1044
+      y: 942
+      width: 614
+      height: 200
+    spriteID: 2396ef0f86690c74dad8b74ce5e71a55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1044, y: 942}
+    spritePosition: {x: 243, y: 200}
+  - name: 5-CardName
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1506
+      y: 1418
+      width: 392
+      height: 64
+    spriteID: 77e423327d34d2d44bafb04aaa7b7461
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1506, y: 1418}
+    spritePosition: {x: 354, y: 518}
+  - name: 4-Price
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1506
+      y: 1322
+      width: 500
+      height: 88
+    spriteID: 430aedac1016421449874dc5a9b19514
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1506, y: 1322}
+    spritePosition: {x: 300, y: 1187}
+  - name: 3-Card Frame Glow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 683
+      height: 930
+    spriteID: 75be13faba1efc64b822d761c2e0c5c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 209, y: 435}
+  - name: 2-Card Frame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 695
+      y: 4
+      width: 647
+      height: 894
+    spriteID: 16c6149c9db9885488b72f3411f9d760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 695, y: 4}
+    spritePosition: {x: 227, y: 453}
+  - name: 1-Card
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1350
+      y: 4
+      width: 607
+      height: 854
+    spriteID: aa3243e395dc20b408ea6361f44051ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1350, y: 4}
+    spritePosition: {x: 247, y: 473}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: ArrowL
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 643bd826c16f5ef45b815feffc6bca28
+    layerID: 66
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 18-ArrowBorderL
+    spriteName: 18-ArrowBorderL
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a55adb71eb156ad4f948ac58bf6e7ef5
+    layerID: 65
+    mosaicPosition: {x: 422, y: 1150}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 17-ArrowFillL
+    spriteName: 17-ArrowFillL
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ceff025c3235c344b92fe34d7c6dc045
+    layerID: 64
+    mosaicPosition: {x: 770, y: 1322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 16-Arrow L Glow
+    spriteName: 16-Arrow L Glow
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 18a43e1f65d0af442beb118df60b7ef4
+    layerID: 93
+    mosaicPosition: {x: 4, y: 942}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ArrowR
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6e5434f934a2e374b8e836600216cc71
+    layerID: 58
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 15-ArrowBorder R
+    spriteName: 15-ArrowBorder R
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 1f5d8ee85e991134f9e7c2391f48effc
+    layerID: 50
+    mosaicPosition: {x: 596, y: 1150}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 14-ArrowFill R
+    spriteName: 14-ArrowFill R
+    isGroup: 0
+    parentIndex: 4
+    spriteID: c741294891bbc6e4a87c31714ad9c6e1
+    layerID: 45
+    mosaicPosition: {x: 932, y: 1322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 13-ArrowR Glow
+    spriteName: 13-ArrowR Glow
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 309b154bfbc76a848a249e63588adb08
+    layerID: 92
+    mosaicPosition: {x: 213, y: 942}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CloseButton
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a6074b0f958a1474598fcf90eae51636
+    layerID: 22
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 12-Close Button Frame
+    spriteName: 12-Close Button Frame
+    isGroup: 0
+    parentIndex: 8
+    spriteID: ddda25339a445844e9da4ecbfd10889d
+    layerID: 15
+    mosaicPosition: {x: 1666, y: 942}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 11-Close Button Frame Glow
+    spriteName: 11-Close Button Frame Glow
+    isGroup: 0
+    parentIndex: 8
+    spriteID: b8d36b39eb9a4814088f7f342f9308aa
+    layerID: 91
+    mosaicPosition: {x: 1094, y: 1322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PlayerPoints
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: f1f57662b747b5c4d8fd96cf0c9336b3
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 10-PlayerPoints
+    spriteName: 10-PlayerPoints
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 2c8172a74e251434898ba6c6e348f9d3
+    layerID: 25
+    mosaicPosition: {x: 1094, y: 1495}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 9-PlayerPoints Frame
+    spriteName: 9-PlayerPoints Frame
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 7d8699e2033355248a580a9e119ac1b2
+    layerID: 24
+    mosaicPosition: {x: 770, y: 1150}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 8-PlayerPoints Frame Glow
+    spriteName: 8-PlayerPoints Frame Glow
+    isGroup: 0
+    parentIndex: 11
+    spriteID: f9a29be3256dcdc4191167e1a1cafd5f
+    layerID: 89
+    mosaicPosition: {x: 422, y: 942}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PurchaseButton
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7b73f74ab50d79244a445f557f589864
+    layerID: 20
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 7-Purchase Frame
+    spriteName: 7-Purchase Frame
+    isGroup: 0
+    parentIndex: 15
+    spriteID: ae923ad005efcf347baf617008ceebbe
+    layerID: 14
+    mosaicPosition: {x: 1356, y: 1150}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 6-Purchase Frame Glow
+    spriteName: 6-Purchase Frame Glow
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 2396ef0f86690c74dad8b74ce5e71a55
+    layerID: 88
+    mosaicPosition: {x: 1044, y: 942}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UpgradeCard
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 64fbe2095fe751c48bdbb2805f5e5e17
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 5-CardName
+    spriteName: 5-CardName
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 77e423327d34d2d44bafb04aaa7b7461
+    layerID: 13
+    mosaicPosition: {x: 1506, y: 1418}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 4-Price
+    spriteName: 4-Price
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 430aedac1016421449874dc5a9b19514
+    layerID: 8
+    mosaicPosition: {x: 1506, y: 1322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 3-Card Frame Glow
+    spriteName: 3-Card Frame Glow
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 75be13faba1efc64b822d761c2e0c5c7
+    layerID: 87
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 2-Card Frame
+    spriteName: 2-Card Frame
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 16c6149c9db9885488b72f3411f9d760
+    layerID: 83
+    mosaicPosition: {x: 695, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 1-Card
+    spriteName: 1-Card
+    isGroup: 0
+    parentIndex: 18
+    spriteID: aa3243e395dc20b408ea6361f44051ab
+    layerID: 81
+    mosaicPosition: {x: 1350, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

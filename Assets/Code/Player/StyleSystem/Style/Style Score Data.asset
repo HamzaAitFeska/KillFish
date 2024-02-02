@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e930bbab3ebe574f86e086e8330297f, type: 3}
+  m_Name: Style Score Data
+  m_EditorClassIdentifier: 
+  rangos:
+  - LevelRange: {x: -1, y: 50}
+    Multiplier: 1
+    Health_Damage: 1
+    LosingPoints: 15
+    Texto: 
+    Image: {fileID: 0}
+  - LevelRange: {x: 50, y: 250}
+    Multiplier: 1
+    Health_Damage: 1.25
+    LosingPoints: 75
+    Texto: D
+    Image: {fileID: 3431551291444958837, guid: b4736d2a5eb76134fbcb6aa0de160957, type: 3}
+  - LevelRange: {x: 250, y: 650}
+    Multiplier: 2
+    Health_Damage: 1.5
+    LosingPoints: 125
+    Texto: C
+    Image: {fileID: 7235497546421036412, guid: 06d923852ccf714428af9c493fce2c8d, type: 3}
+  - LevelRange: {x: 650, y: 1200}
+    Multiplier: 3
+    Health_Damage: 1.75
+    LosingPoints: 275
+    Texto: B
+    Image: {fileID: 3477249676197028918, guid: 72d92e7438a398b488fdb32341012fda, type: 3}
+  - LevelRange: {x: 1200, y: 2000}
+    Multiplier: 4
+    Health_Damage: 2
+    LosingPoints: 250
+    Texto: A
+    Image: {fileID: 6276139562080419320, guid: e2c1db0b8102bf349ab1437170e7926c, type: 3}
+  - LevelRange: {x: 2000, y: 3500}
+    Multiplier: 5
+    Health_Damage: 2.25
+    LosingPoints: 350
+    Texto: S
+    Image: {fileID: 320977058158126495, guid: dd77e27b6cd13da41b846ec18d3f9cb3, type: 3}
+  - LevelRange: {x: 3500, y: 5500}
+    Multiplier: 8
+    Health_Damage: 2.5
+    LosingPoints: 800
+    Texto: SS
+    Image: {fileID: 6433609007231868632, guid: 8f8ca727eaecb7944a4f74e801f29d9d, type: 3}
+  - LevelRange: {x: 5500, y: 10000}
+    Multiplier: 12
+    Health_Damage: 3
+    LosingPoints: 1600
+    Texto: SSS
+    Image: {fileID: 2892998956560448571, guid: cd1569cbeb6fcaa47b50e2303f9f3bbe, type: 3}
+  playerTotalPoints: 188400
+  pointSubstraction: 10
+  KillScore: 50
+  DoubleKillScore: 100
+  TripleKillScore: 200
+  MultiKillScore: 350
+  AirKill: 100
+  HeadShot: 300
+  Overkill: 100
+  Hooked: 150
+  DashKill: 150
+  AirHookKill: 200
+  SniperKill: 150
+  EnvironmentalKill: 200
+  SnipedKill: 450
+  DuckHuntKill: 250
+  DuckSnipeKill: 350

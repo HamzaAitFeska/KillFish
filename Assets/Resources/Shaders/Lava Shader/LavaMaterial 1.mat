@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LavaMaterial 1
+  m_Shader: {fileID: -6465566751694194690, guid: 3b18d3cf7f45c414398d6b35fbb77b97,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LavaNormals:
+        m_Texture: {fileID: 2800000, guid: ce6260aa43b1bdb4d90beaced1f159df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LavaTexture:
+        m_Texture: {fileID: 2800000, guid: 4130508f31871524a991c27d1c187cf1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BottomPower: 7.87
+    - _FresnelPower: 3.5
+    - _Metallic: 0.8
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SimpleNoisePower: 2
+    - _SimpleNoiseScale: 30
+    - _SimpleNouseAmmount: 0.5
+    - _Smoothness: 0.5
+    - _VoronoiAmmount: 0.5
+    - _VoronoiAngleOffset: 1.69
+    - _VoronoiScale: 7.79
+    m_Colors:
+    - _BottomRemap: {r: 0.62, g: 1, b: 0, a: 0}
+    - _FresnelColor: {r: 3.903468, g: 0.31781998, b: 0, a: 1}
+    - _LavaColor: {r: 5.2164755, g: 1.119767, b: 0, a: 1}
+    - _LavaNormalSpeed: {r: 0, g: 0.05, b: 0, a: 0}
+    - _LavaRemap: {r: 1.28, g: 1.83, b: 0, a: 0}
+    - _LavaScale: {r: 0.5, g: 2, b: 0, a: 0}
+    - _LavaSpeed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _SimpleNoiseSpeed: {r: 0, g: 0.05, b: 0, a: 0}
+    - _VoronoiSpeed: {r: 0, g: 0.01, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &6622309951095655219
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e22c1f4a-171f-4bde-93e0-24a92d550450}">
+		<property name="assetPath">
+			<value>RifleChargeReady.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.55291666666666661</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c15d2dde-4865-4adb-8d14-3d943e1e5c5c}</destination>
+		</relationship>
+	</object>
+</objects>

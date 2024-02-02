@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{de654221-36f8-4b72-91b7-efab0fdc760a}">
+		<property name="assetPath">
+			<value>Shotgun_SingleShot.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.92789115646258502</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c15d2dde-4865-4adb-8d14-3d943e1e5c5c}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Options Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Options Table
+  m_TableCollectionNameGuidString: 94abc38753ca7d14d8c9673ddbedf038
+  m_Entries:
+  - m_Id: 269334839296
+    m_Key: Language Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111276687360
+    m_Key: Graphics Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154834534400
+    m_Key: Gameplay Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230613024768
+    m_Key: Audio Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2158109622272
+    m_Key: Back Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108233882304512
+    m_Key: Sensibility X Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108346679721984
+    m_Key: FOV Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108397602766848
+    m_Key: Camera Tilt Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108540561424384
+    m_Key: Fov Changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108574245879808
+    m_Key: Camera Shakes Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108642713698304
+    m_Key: Hook Options Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108714734092288
+    m_Key: Dash Options Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108730840219648
+    m_Key: Interact Options Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114346367352832
+    m_Key: 'Full Screen Key '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114530656681984
+    m_Key: Master Volume Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114659941908480
+    m_Key: Music Volume Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114747502198784
+    m_Key: Sfx Volume Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147538001416192
+    m_Key: 'Mouse Inversion
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536263514816512
+    m_Key: Spanish Key Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536550388432896
+    m_Key: English Key Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536694802513920
+    m_Key: French Key Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947565441744896
+    m_Key: China Key Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947611084161024
+    m_Key: 'Russia Key Text
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421813076971520
+    m_Key: Sensibility Y Key
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1997655973950390297
+  references:
+    version: 2
+    RefIds:
+    - rid: 1997655973950390297
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1703504352880

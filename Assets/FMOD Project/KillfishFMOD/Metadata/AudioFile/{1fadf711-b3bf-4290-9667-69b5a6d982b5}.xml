@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1fadf711-b3bf-4290-9667-69b5a6d982b5}">
+		<property name="assetPath">
+			<value>LandMetalic.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.55200000000000005</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c15d2dde-4865-4adb-8d14-3d943e1e5c5c}</destination>
+		</relationship>
+	</object>
+</objects>

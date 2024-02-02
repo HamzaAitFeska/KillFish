@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c5cfd7c34540ff44fb85a7108a21eb31
+  m_SerializeEntries:
+  - m_GUID: c3bcff6ae2b090144986aab62371a823
+    m_Address: Options Table_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: b769aad733a4a3547a5495553c841f16
+    m_Address: Menu Table_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: c5ff499cd25ca454f841b307f2a3401e
+    m_Address: TablePauseGame_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 08131bffdd888314a8e100c3fafe19db
+    m_Address: PlayerUITable_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: ceec292eceb6a194ea6ab038cad7fa85
+    m_Address: FinalScoreTable_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: 10fd4e3de7b79654d991f07c9414547e
+    m_Address: LevelNamesTable_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  - m_GUID: d7dd146f3787fbf4a9ebc1dbdbbc4337
+    m_Address: ShopTable_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: d59e4ce1a69445f4f82f39f437523aaa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b81f11dbcf6c1644cbea4aa6c44717ce, type: 2}
+    - {fileID: 11400000, guid: d7343e074ab84e640ba7ef323ee89190, type: 2}

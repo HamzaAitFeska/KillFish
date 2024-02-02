@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Options Table_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 94abc38753ca7d14d8c9673ddbedf038, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154834534400
+    m_Localized: Jugabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230613024768
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111276687360
+    m_Localized: Graficos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269334839296
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2158109622272
+    m_Localized: Atras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108346679721984
+    m_Localized: FOV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108397602766848
+    m_Localized: "\rINCLINACION DE LA CAMARA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108540561424384
+    m_Localized: FOV CAMBIOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108574245879808
+    m_Localized: TEMBLOR DE CAMARA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108642713698304
+    m_Localized: Gancho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108714734092288
+    m_Localized: Sprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108730840219648
+    m_Localized: Interactuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108233882304512
+    m_Localized: SENSIBILIDAD X
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114346367352832
+    m_Localized: PANTALLA COMPLETA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114747502198784
+    m_Localized: "\rVOLUMEN DE EFECTOS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114659941908480
+    m_Localized: VOLUMEN DE LA MUSICA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114530656681984
+    m_Localized: VOLUMEN PRINCIPAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147538001416192
+    m_Localized: INVERSION EJE Y DEL RATON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536263514816512
+    m_Localized: ESPANOL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536550388432896
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2536694802513920
+    m_Localized: FRANCES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947611084161024
+    m_Localized: RUSO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2947565441744896
+    m_Localized: CHINO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421813076971520
+    m_Localized: SENSIBILIDAD Y
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PlayerUITable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: b8e16e4589848a743ad385c633d4d905, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9099247616
+    m_Localized: "\rESTADO DEL AREA: LIMPIO."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2886081413120
+    m_Localized: PRESIONE [E]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2938929643520
+    m_Localized: MATALOS A TODOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4316875948032
+    m_Localized: SPRINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4252132671488
+    m_Localized: Has desbloqueado
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

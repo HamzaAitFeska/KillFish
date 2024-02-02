@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: New Table_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 586577367433c1c47ab300a46b77d708, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59846131712
+    m_Localized: JOUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609832236974080
+    m_Localized: QUITTER JEU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609915879784448
+    m_Localized: OPTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609960293269504
+    m_Localized: CREDITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610521864437760
+    m_Localized: FACILE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610556933013504
+    m_Localized: MOYEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610600356642816
+    m_Localized: DUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246170987790336
+    m_Localized: RESEAUX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246989623656448
+    m_Localized: 'VOIR TOUT
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

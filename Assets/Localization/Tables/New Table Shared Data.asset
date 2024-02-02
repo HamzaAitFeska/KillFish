@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: New Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu Table
+  m_TableCollectionNameGuidString: 586577367433c1c47ab300a46b77d708
+  m_Entries:
+  - m_Id: 59846131712
+    m_Key: Play Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609832236974080
+    m_Key: Leave Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609915879784448
+    m_Key: Options Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609960293269504
+    m_Key: Credits Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610521864437760
+    m_Key: Easy Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610556933013504
+    m_Key: Medium Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610600356642816
+    m_Key: Hard Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246170987790336
+    m_Key: Socials Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246989623656448
+    m_Key: All Social Key
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1997655935843565570
+  references:
+    version: 2
+    RefIds:
+    - rid: 1997655935843565570
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1703358075221

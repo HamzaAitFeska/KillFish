@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 93f4a18f9380114428905dc9dd5e7e94
+  m_SerializeEntries:
+  - m_GUID: 0c03b29f5b37f674f87a2e1230e653fd
+    m_Address: Menu Table_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: b13b3e176dc8a6c47a076ef780a839c7
+    m_Address: Options Table_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 56859dae85a29db4e8365a3ff7c33677
+    m_Address: TablePauseGame_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 9dd8401243fca5e43b493801193152c2
+    m_Address: ShopTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 9b4fcf32fda97f24d9cd37cc309291d1
+    m_Address: ShopTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 35f24e594e1909742875315557e8953e
+    m_Address: FinalScoreTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: a9cad10d108d26747b9d271abe88bb6b
+    m_Address: New Table_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 8ccd187c3d45d4a49844764944bded4a
+    m_Address: LevelNamesTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 08b9ecc001bf2de4d822e235c29eabd5
+    m_Address: LevelNamesTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 823bc3c6c4000e3499ecad7fa9786241
+    m_Address: PlayerUITable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 471c7577c5bcc9f4d9dfbb5275261e7e
+    m_Address: PlayerUITable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: d59e4ce1a69445f4f82f39f437523aaa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 89e44f425bcc2a54db498a0c54719fd2, type: 2}
+    - {fileID: 11400000, guid: 1aad88cb7f49d1444a03778d18d744ed, type: 2}

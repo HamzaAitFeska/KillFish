@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2242f149783c08a449e34dff523549b2, type: 3}
+  m_Name: FMOD Events
+  m_EditorClassIdentifier: 
+  <styleMeterChange>k__BackingField:
+    Guid:
+      Data1: -2017224195
+      Data2: 1077881698
+      Data3: 1647794339
+      Data4: 1689112994
+    Path: event:/Player/StyleChange
+  <hookShot>k__BackingField:
+    Guid:
+      Data1: 176923428
+      Data2: 1097542843
+      Data3: 1496124582
+      Data4: -382158812
+    Path: event:/Player/Hook/HookShot
+  <hookReturned>k__BackingField:
+    Guid:
+      Data1: 2103954809
+      Data2: 1115710462
+      Data3: -1031653485
+      Data4: 1474811127
+    Path: event:/Player/Hook/HookReturned
+  <hookReleased>k__BackingField:
+    Guid:
+      Data1: -689067351
+      Data2: 1215541412
+      Data3: 523171218
+      Data4: 1537957634
+    Path: event:/Player/Hook/HookLoop
+  <shotgunShot>k__BackingField:
+    Guid:
+      Data1: 944803770
+      Data2: 1226887620
+      Data3: 1758286216
+      Data4: 1886891741
+    Path: event:/Player/Weapon/ShotgunShot
+  <shotgunShotRecharge>k__BackingField:
+    Guid:
+      Data1: -1362238871
+      Data2: 1084257714
+      Data3: -2120586592
+      Data4: -1127846645
+    Path: event:/Player/Weapon/ShotgunShotRecharge
+  <rifleShot>k__BackingField:
+    Guid:
+      Data1: -1038602752
+      Data2: 1246891430
+      Data3: -1606287189
+      Data4: -3833181
+    Path: event:/Player/Weapon/RifleShot
+  <chargeSniper>k__BackingField:
+    Guid:
+      Data1: 1507109728
+      Data2: 1096056263
+      Data3: -1228265301
+      Data4: 1044383822
+    Path: event:/Player/Weapon/ChargeSniper
+  <sniperRecharge>k__BackingField:
+    Guid:
+      Data1: -111648222
+      Data2: 1311687134
+      Data3: 1819494567
+      Data4: -1011685754
+    Path: event:/Player/Weapon/SniperRecharge
+  <run>k__BackingField:
+    Guid:
+      Data1: 1598810083
+      Data2: 1079752370
+      Data3: -1140848231
+      Data4: 34033039
+    Path: event:/Player/Movement/Run
+  <jump>k__BackingField:
+    Guid:
+      Data1: 70980222
+      Data2: 1287499725
+      Data3: -944300644
+      Data4: -726770690
+    Path: event:/Player/Movement/Jump
+  <doubleJump>k__BackingField:
+    Guid:
+      Data1: 1304309549
+      Data2: 1170458726
+      Data3: -847650143
+      Data4: 568303445
+    Path: event:/Player/Movement/Double Jump
+  <land>k__BackingField:
+    Guid:
+      Data1: 1655522432
+      Data2: 1201123258
+      Data3: 1062491828
+      Data4: 821819760
+    Path: event:/Player/Movement/Land
+  <stomp>k__BackingField:
+    Guid:
+      Data1: -2103634957
+      Data2: 1192194585
+      Data3: -1433668209
+      Data4: -1615505459
+    Path: event:/Player/Movement/Stomp
+  <dash>k__BackingField:
+    Guid:
+      Data1: 2089279265
+      Data2: 1184866154
+      Data3: -1608706886
+      Data4: 1087247556
+    Path: event:/Player/Movement/Dash
+  <playerHit>k__BackingField:
+    Guid:
+      Data1: 1605780981
+      Data2: 1326552791
+      Data3: 1115300741
+      Data4: 1271911441
+    Path: event:/Player/Health/Hit
+  <playerDie>k__BackingField:
+    Guid:
+      Data1: -1993723117
+      Data2: 1257215992
+      Data3: 1118225336
+      Data4: -1962785576
+    Path: event:/Player/Health/Death
+  <ShotgunHit>k__BackingField:
+    Guid:
+      Data1: -1548407852
+      Data2: 1288103324
+      Data3: -1011410790
+      Data4: -1499012589
+    Path: event:/Player/Weapon/ShotgunHit3D
+  <dogAttack>k__BackingField:
+    Guid:
+      Data1: -1281868463
+      Data2: 1149758784
+      Data3: -1525473609
+      Data4: -511505616
+    Path: event:/Enemy1/ENEMY1_Attack
+  <dogDeath>k__BackingField:
+    Guid:
+      Data1: -1955919605
+      Data2: 1252345540
+      Data3: -2053798249
+      Data4: 994009660
+    Path: event:/Enemy1/ENEMY1_Death
+  <dogRun>k__BackingField:
+    Guid:
+      Data1: -1128100532
+      Data2: 1160271483
+      Data3: -1313714013
+      Data4: 473992713
+    Path: event:/Enemy1/ENEMY1_Footstep
+  <dogSpawn>k__BackingField:
+    Guid:
+      Data1: 1037057598
+      Data2: 1133881232
+      Data3: 412989844
+      Data4: -461401662
+    Path: event:/Enemy1/ENEMY1_Spawn
+  <turretAttack>k__BackingField:
+    Guid:
+      Data1: -440733218
+      Data2: 1331495006
+      Data3: 594978969
+      Data4: 1879867934
+    Path: event:/Enemy2/ENEMY2_ATTACK
+  <turretDeath>k__BackingField:
+    Guid:
+      Data1: -205901318
+      Data2: 1126355933
+      Data3: 277551536
+      Data4: -1413766839
+    Path: event:/Enemy2/ENEMY2_DEATH
+  <turretSpawn>k__BackingField:
+    Guid:
+      Data1: -267847849
+      Data2: 1293125355
+      Data3: 875478159
+      Data4: 743010377
+    Path: event:/Enemy2/ENEMY2_Spawn
+  <UIClick>k__BackingField:
+    Guid:
+      Data1: 1460622827
+      Data2: 1094820638
+      Data3: 1069815694
+      Data4: -405954327
+    Path: event:/UISounds/UIClickButton
+  <UIHover>k__BackingField:
+    Guid:
+      Data1: -162309183
+      Data2: 1259025912
+      Data3: -1431818061
+      Data4: 166548288
+    Path: event:/UISounds/UIHoverButton
+  <UIStart>k__BackingField:
+    Guid:
+      Data1: 1575614945
+      Data2: 1307671148
+      Data3: 1140089765
+      Data4: 278925097
+    Path: event:/UISounds/UIStart
+  <TutorialAppear>k__BackingField:
+    Guid:
+      Data1: 1942316538
+      Data2: 1313227156
+      Data3: -1669430849
+      Data4: -1233722674
+    Path: event:/Player/TutorialAppear
+  <VideoIntroAudio>k__BackingField:
+    Guid:
+      Data1: 1153614717
+      Data2: 1089612582
+      Data3: 214038196
+      Data4: 451166553
+    Path: event:/UISounds/VideoIntroSound
+  <VideoCreditsAudio>k__BackingField:
+    Guid:
+      Data1: 396720918
+      Data2: 1190342518
+      Data3: -1534586177
+      Data4: 1192054936
+    Path: event:/UISounds/VideoCreditsSound
+  <YouAreTheFishAudio>k__BackingField:
+    Guid:
+      Data1: -58293059
+      Data2: 1248257441
+      Data3: -121963592
+      Data4: 1562523974
+    Path: event:/UISounds/FISH
+  <StyleFinalAppear>k__BackingField:
+    Guid:
+      Data1: 418501041
+      Data2: 1311698365
+      Data3: -27573326
+      Data4: 755735413
+    Path: event:/UISounds/StyleFinalAppear
+  <StyleFinalFramesLetters>k__BackingField:
+    Guid:
+      Data1: 1543612884
+      Data2: 1217330562
+      Data3: 37708206
+      Data4: -440562308
+    Path: event:/UISounds/StyleFinalFramesLetters
+  <StyleFinalTimeAndPoints>k__BackingField:
+    Guid:
+      Data1: -648952667
+      Data2: 1124639503
+      Data3: -1313449563
+      Data4: -2125634296
+    Path: event:/UISounds/StyleFinalTime&Points
+  <StyleFinalStyleChange>k__BackingField:
+    Guid:
+      Data1: -914409644
+      Data2: 1100554933
+      Data3: 30975419
+      Data4: 1331167568
+    Path: event:/UISounds/StyleFinalStyleChange
+  <HitmarkerAudio>k__BackingField:
+    Guid:
+      Data1: -1537114990
+      Data2: 1308177782
+      Data3: -1793558345
+      Data4: -409288785
+    Path: event:/UISounds/Hitmarker
+  <DoorOpen>k__BackingField:
+    Guid:
+      Data1: 1426620453
+      Data2: 1328339579
+      Data3: 476618132
+      Data4: 892087572
+    Path: event:/Ambience/Door/Door Open
+  <DoorClose>k__BackingField:
+    Guid:
+      Data1: -2001375063
+      Data2: 1305973902
+      Data3: -1207085182
+      Data4: -287014049
+    Path: event:/Ambience/Door/Door Close
+  <Machinery>k__BackingField:
+    Guid:
+      Data1: -1009809468
+      Data2: 1233754603
+      Data3: 1781491842
+      Data4: -2087121214
+    Path: event:/Ambience/Machinery
+  <MachineryBroken>k__BackingField:
+    Guid:
+      Data1: 528453194
+      Data2: 1143624043
+      Data3: 1199685025
+      Data4: -1413549210
+    Path: event:/Ambience/MachineryBroken
+  <IndustrialFan>k__BackingField:
+    Guid:
+      Data1: 1002932571
+      Data2: 1238912243
+      Data3: -962213753
+      Data4: -1231583005
+    Path: event:/Ambience/IndustrialFan
+  <AirConditioner>k__BackingField:
+    Guid:
+      Data1: -375541621
+      Data2: 1160571887
+      Data3: -1119054185
+      Data4: -22702547
+    Path: event:/Ambience/AirConditioner
+  <WhiteNoise>k__BackingField:
+    Guid:
+      Data1: 1509029911
+      Data2: 1136941012
+      Data3: 1938199226
+      Data4: -1478431108
+    Path: event:/Ambience/WhiteNoise
+  <Lava>k__BackingField:
+    Guid:
+      Data1: 1637571852
+      Data2: 1156386191
+      Data3: -1360817007
+      Data4: -95519498
+    Path: event:/Ambience/Lava
+  <Explosion>k__BackingField:
+    Guid:
+      Data1: -766921407
+      Data2: 1309766976
+      Data3: 1163434676
+      Data4: 2015066321
+    Path: event:/Ambience/Explosion
+  <Lever>k__BackingField:
+    Guid:
+      Data1: -526378794
+      Data2: 1210312588
+      Data3: -1519702103
+      Data4: -368341545
+    Path: event:/Ambience/Lever
+  <OrbLoop>k__BackingField:
+    Guid:
+      Data1: -1242371777
+      Data2: 1156385581
+      Data3: 300118941
+      Data4: 18785502
+    Path: event:/Ambience/OrbLooped
+  <Water>k__BackingField:
+    Guid:
+      Data1: 1803471099
+      Data2: 1314189279
+      Data3: -1449660502
+      Data4: -1964632067
+    Path: event:/Ambience/Water
+  <StartWave>k__BackingField:
+    Guid:
+      Data1: -1199668245
+      Data2: 1075964402
+      Data3: -2071745099
+      Data4: -572983121
+    Path: event:/Ambience/StartWave
+  <LevelOneMusic>k__BackingField:
+    Guid:
+      Data1: -1166170671
+      Data2: 1257851235
+      Data3: 1298143367
+      Data4: 575821607
+    Path: event:/Music/LvlOneMusic
+  <LevelTwoMusic>k__BackingField:
+    Guid:
+      Data1: -1818417287
+      Data2: 1259403936
+      Data3: -1364465740
+      Data4: -674355632
+    Path: event:/Music/LvlTwoMusic
+  <MenuMusic>k__BackingField:
+    Guid:
+      Data1: -1794840315
+      Data2: 1262603538
+      Data3: 977640599
+      Data4: -1234835997
+    Path: event:/Music/MenuMusic
